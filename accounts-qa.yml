@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "APIs for accounts service QA environment"
+  contactDetails:
+    name: "Prasad Khandekar"
+    email: "prasad.khandekar@mhj.com"
+  onCallSupport:
+    - "(555)-(1234)-(536)"
+    - "(555)-(2341)-(342)"

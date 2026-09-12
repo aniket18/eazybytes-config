@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "APIs for cards service for PROD environment"
+  contactDetails:
+    name: "anshuman vichare"
+    email: "anshuman.vichare@mhj.com"
+  onCallSupport:
+    - "(91)-(968800998)"
+    - "(91)-(980002289)"

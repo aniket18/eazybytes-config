@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "APIs for accounts service prod environment"
+  contactDetails:
+    name: "Gaurav More"
+    email: "gaurav.more@mhj.com"
+  onCallSupport:
+    - "(555)-(1234)-(536)"
+    - "(555)-(2341)-(342)"

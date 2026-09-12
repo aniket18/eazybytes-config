@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "APIs for accounts service dev environment"
+  contactDetails:
+    name: "aniket bhute"
+    email: "aniket.bhute@google.com"
+  onCallSupport:
+    - "(555)-(1234)-(536)"
+    - "(555)-(2341)-(342)"

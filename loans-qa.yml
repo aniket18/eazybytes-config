@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "APIs for loans services for QA environment"
+  contactDetails:
+    name: "Namrata Sambherao"
+    email: "namrata.sambherao@mhj.com"
+  onCallSupport:
+    - "(91)-(976363838)"
+    - "(91)-(989292929)"

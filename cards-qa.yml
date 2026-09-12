@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "APIs for cards service for QA environment"
+  contactDetails:
+    name: "Vanita Kharat"
+    email: "vanita.kharat@mhj.com"
+  onCallSupport:
+    - "(91)-(968800998)"
+    - "(91)-(980002289)"

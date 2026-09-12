@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "APIs for loans service for Dev environment"
+  contactDetails:
+    name: "sameer chaughule"
+    email: "sammer.chaughule@mhj.com"
+  onCallSupport:
+    - "(91)-(893783839)"
+    - "(91)-(998993889)"

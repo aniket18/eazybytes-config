@@ -1,0 +1,11 @@
+build:
+  version: "3.3"
+
+loans:
+  message: "APIs for loans service for PROD environment"
+  contactDetails:
+    name: "Dattu More"
+    email: "dattu.more@mhj.com"
+  onCallSupport:
+    - "(91)-(9636383898)"
+    - "(91)-(9853638899)"

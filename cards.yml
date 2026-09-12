@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "APIs for cards service for Dev environment"
+  contactDetails:
+    name: "aniket bhute"
+    email: "aniket.bhute@google.com"
+  onCallSupport:
+    - "(555)-(2222)-(111)"
+    - "(666)-(1111)-(666)"
