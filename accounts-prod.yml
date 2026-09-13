@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "APIs for accounts service webhook environment"
+  message: "APIs for accounts service production environment"
   contactDetails:
     name: "Gaurav More"
     email: "{cipher}fd278d9cfe78b5adb7cb541509fe09a22cbb1e65bc970d3d7e10168ad98b49f700fdcc5d4b08b634cac3160b94dde929"
