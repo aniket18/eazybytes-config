@@ -4,8 +4,8 @@ build:
 loans:
   message: "APIs for loans service for production environment"
   contactDetails:
-    name: "Pruthvik Pratap"
-    email: "pruthvik.paratp@mhj.com"
+    name: "Dattu More"
+    email: "dattu.more@mhj.com"
   onCallSupport:
     - "(91)-(9636383898)"
     - "(91)-(9853638899)"
