@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "APIs for cards service for production environment"
+  message: "APIs for cards service for webhook environment"
   contactDetails:
     name: "anshuman vichare"
     email: "anshuman.vichare@mhj.com"
