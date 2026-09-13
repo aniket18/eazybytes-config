@@ -2,7 +2,7 @@ build:
   version: "3.3"
 
 loans:
-  message: "APIs for loans service for production environment"
+  message: "APIs for loans service for docker environment"
   contactDetails:
     name: "Dattu More"
     email: "dattu.more@mhj.com"
