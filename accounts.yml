@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "APIs for accounts service dev environment"
+  message: "APIs for accounts service docker environment"
   contactDetails:
     name: "aniket bhute"
     email: "aniket.bhute@google.com"
